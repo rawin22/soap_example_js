@@ -1,0 +1,9 @@
+git config --local credential.username rawin22
+
+git branch -M main
+
+git remote set-url origin https://rawin22@github.com/rawin22/soap_example_js.git
+
+git push --set-upstream origin main
+
+#git remote add origin https://github.com/rawin22/soap_example_js.git
